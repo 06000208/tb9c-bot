@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "moduleResolution": "node",
+        "module": "ES2022",
+    },
+    "include": [
+        "src"
+    ],
+}
